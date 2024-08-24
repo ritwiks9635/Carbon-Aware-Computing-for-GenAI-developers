@@ -1,7 +1,11 @@
 # Carbon-Aware-Computing-for-GenAI-developers
 Google Cloud 
 
+[Complete](https://learn.deeplearning.ai/accomplishments/c64a222c-1e09-4e00-9b29-e8685241bb15?usp=sharing)
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZnG2UeVkyl6FxFuVndVnuivMEt0nymvbh-IJ6nJrIW-uWhz5YEOJeVA&s=10)
+
+![Research Paper](https://learn.deeplearning.ai/courses/carbon-aware-computing-for-genai-developers/lesson/7/next-steps)
 
 **What is carbon-aware computing?**
 
